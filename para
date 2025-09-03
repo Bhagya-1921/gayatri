@@ -1,0 +1,1 @@
+This code creates a digital clock that updates every second. It uses JavaScript's setInterval function to update the time.
